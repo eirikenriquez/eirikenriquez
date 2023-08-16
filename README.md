@@ -5,7 +5,6 @@ I'm Eirik Mykel Navarro Enriquez, I'm a passionate individual exploring the worl
 - 💼 Currently Working On: Finishing my final semester at AUT (Software Development Major).
 - 🌱 Currently Learning: MERN Stack and NEXT.js.
 - 📫 You can reach me at: [eirikdbbd@gmail.com](mailto:eirikdbbd@gmail.com)
--
 <!--
 **eirikenriquez/eirikenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
