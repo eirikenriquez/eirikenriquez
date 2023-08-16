@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://monkeytype.com/profile/eirik.enr">
-        <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+        <img src="https://raw.githubusercontent.com/eirikenriquez/eirikenriquez/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
 </a>
 <!--
 **eirikenriquez/eirikenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
