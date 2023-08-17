@@ -6,10 +6,10 @@ I'm Eirik Mykel Navarro Enriquez, I'm a passionate individual exploring the worl
 - 🌱 Currently Learning: MERN Stack and NEXT.js.
 - 📫 You can reach me at: [eirikdbbd@gmail.com](mailto:eirikdbbd@gmail.com)
 
-<!--
-  <a href="https://monkeytype.com/profile/eirik.enr">
-        <img src="https://raw.githubusercontent.com/eirikenriquez/eirikenriquez/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-  </a>
+ <a href="https://monkeytype.com/profile/eirik.nr">
+   <img src="https://raw.githubusercontent.com/eirikenriquez/eirikenriquez/monkeytype-readme/SVG_NAME" alt="My Monkeytype profile" />
+ </a>
+ 
 <!--
 **eirikenriquez/eirikenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
