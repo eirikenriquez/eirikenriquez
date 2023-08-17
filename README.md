@@ -14,8 +14,9 @@ I'm a passionate Software Developer Student based in Auckland, New Zealand. Welc
 
 Here are a few projects I'm proud of:
 
-- [The Lost Relics](https://github.com/L-s-a-r-a-h/COMP602-The-Lost-Relics): A brief description of the project.
-- [Tiny Hungry Shark](https://github.com/eirikenriquez/Tiny-Hungry-Shark): A brief description of the project.
+- [The Lost Relics](https://github.com/L-s-a-r-a-h/COMP602-The-Lost-Relics): A platformer game created on Unity by a team of 5 for a Univeristy assignment.
+- [Tiny Hungry Shark](https://github.com/eirikenriquez/Tiny-Hungry-Shark): A fun little game created for My First Game Jam: Winter 2023.
+- [Intel NUC 7 OpenCore EFI](https://github.com/eirikenriquez/nuc7-opencore): An EFI configuration that uses OpenCore to run MacOS on an Intel NUC7 hackintosh.
 
 Feel free to explore my repositories for more projects and collaborations!
 
