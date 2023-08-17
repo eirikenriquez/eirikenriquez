@@ -19,8 +19,6 @@ Here are a few projects I'm proud of:
 - [Intel NUC 7 OpenCore EFI](https://github.com/eirikenriquez/nuc7-opencore): An EFI configuration using OpenCore to run MacOS on an Intel NUC7 hackintosh, exploring hardware and software synergy.
 
 
-Feel free to explore my repositories for more projects and collaborations!
-
 ## Connect with Me
 
 Let's connect and share our stories:
