@@ -2,7 +2,7 @@
 
 🇵🇭 Born in the Philippines, 🇳🇿 Raised in New Zealand
 
-I'm a passionate Software Developer Student based in Auckland, New Zealand. Welcome to my GitHub profile!
+I'm a passionate Software Development Student based in Auckland, New Zealand. Welcome to my GitHub profile!
 
 ## About Me
 - 💼 Currently Finishing my final semester at AUT (Software Development Major).
