@@ -17,6 +17,7 @@ Here are a few projects I'm proud of:
 - [The Lost Relics](https://github.com/L-s-a-r-a-h/COMP602-The-Lost-Relics): A platformer game created in Unity, a collaborative effort by an Agile team of 5 for a University assignment.
 - [Tiny Hungry Shark](https://github.com/eirikenriquez/Tiny-Hungry-Shark): A fun and challenging game created with a friend for My First Game Jam: Winter 2023, showcasing our creativity.
 - [Intel NUC 7 OpenCore EFI](https://github.com/eirikenriquez/nuc7-opencore): An EFI configuration using OpenCore to run MacOS on an Intel NUC7 hackintosh, exploring hardware and software synergy.
+- [CAT or DOG](https://github.com/eirikenriquez/CatOrDog): A silly little quiz game about guessing whether an image is of a cat or a dog, created using React.
 
 
 ## Connect with Me
