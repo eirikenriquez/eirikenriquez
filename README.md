@@ -30,7 +30,7 @@ Here are a few projects I'm proud of:
 - [Tiny Hungry Shark](https://github.com/eirikenriquez/Tiny-Hungry-Shark): A fun and challenging game created with a friend for My First Game Jam: Winter 2023, showcasing our creativity.
 - [Intel NUC 7 OpenCore EFI](https://github.com/eirikenriquez/nuc7-opencore): An EFI configuration using OpenCore to run MacOS on an Intel NUC7 hackintosh, exploring hardware and software synergy.
 - [CAT or DOG](https://github.com/eirikenriquez/CatOrDog): A silly little quiz game about guessing whether an image is of a cat or a dog, created using React.
-- [PERRINN 424 Hypercar Simulator Genetic Algorthm](https://github.com/ShawnHiewRenHaw/project-424-unity): My final year research and development project at AUT. Developed with 4 awesome teammates an algorithm that optimises the race car's lap time. 
+- [PERRINN 424 Hypercar Simulator Genetic Algorthm](https://github.com/ShawnHiewRenHaw/project-424-unity): Collaborated with 4 awesome teammates at AUT to create an optimization algorithm for achieving faster lap times in the hypercar simulator." 
 
 
 ## Connect with Me
