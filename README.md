@@ -1,4 +1,4 @@
-# Hi there! 👋🏽 I'm Eirik Enriquez
+# Hi there! I'm Eirik Enriquez 🫰
 
 🇵🇭 Born in the Philippines, 🇳🇿 Raised in New Zealand
 
