@@ -10,7 +10,7 @@ I'm a passionate Software Development Student based in Auckland, New Zealand. We
 - 🚀 Passionate about all things technology.
 - 🎮 Gamer at heart, I love exploring virtual worlds in my free time.
 
-#### Who I Am as a Developer
+### Who I Am as a Developer
 
 - I'm not ❌:
   - Perfect, but who is?
