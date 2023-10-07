@@ -34,8 +34,10 @@ Here are a few projects I'm proud of:
 ### Hardware and Software
 - [Intel NUC 7 OpenCore EFI](https://github.com/eirikenriquez/nuc7-opencore): An EFI configuration using OpenCore to run MacOS on an Intel NUC7 hackintosh, exploring hardware and software synergy.
 
+
 ### Web Development
 - [CAT or DOG](https://github.com/eirikenriquez/CatOrDog): A silly little quiz game about guessing whether an image is of a cat or a dog, created using React.
+- [Software Practice Empirical Evidence Database](https://github.com/moon1324/ASS1B): A web app where users can submit links to articles regarding software engineering practices. Worked in a team of four for a University assignment. Uses React, TypeScript, Next.js, Node.js and MongoDB.
 
 ### Optimisation and Research 
 - [PERRINN 424 Hypercar Simulator Lap Time Optimisation](https://github.com/ShawnHiewRenHaw/project-424-unity): Final Year R&D project at AUT. Collaborated with 4 awesome teammates to create an optimization algorithm for achieving faster lap times in the hypercar simulator. 
