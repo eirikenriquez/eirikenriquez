@@ -5,8 +5,8 @@
 I'm a passionate Software Development Student based in Auckland, New Zealand. Welcome to my GitHub profile!
 
 ## About Me
-- 💼 Currently Finishing my final semester at AUT (Software Development Major).
-- 🌱 Currently Learning MERN Stack and NEXT.js.
+- 💼 Recently finished my final semester at AUT (Software Development Major).
+- 🌱 Currently learning C# .NET
 - 🚀 Passionate about all things technology.
 - 🎮 Gamer at heart, I love exploring virtual worlds in my free time.
 
